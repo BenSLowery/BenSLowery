@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ben, 
 - A Masters student studying Mathematics at the University of Hull
-- Interested in Pure Maths, Statistics, Operational Research, and data science
+- Interested in Pure Maths, Statistics, and Operational Research
